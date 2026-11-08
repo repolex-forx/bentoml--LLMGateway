@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/bentoml/LLMGateway/commit/c4537e75744959181dcb74fc07c54bf732c0edfd",
       "git:hexsha": "c4537e75744959181dcb74fc07c54bf732c0edfd",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
