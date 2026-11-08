@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "org": "bentoml",
+  "repo": "LLMGateway",
+  "versions": [
+    {
+      "commit": "c4537e75744959181dcb74fc07c54bf732c0edfd",
+      "parsed_at": "2026-11-08T06:03:27.603731+00:00",
+      "filetree": "filetree/c4537e75744959181dcb74fc07c54bf732c0edfd.nq.gz",
+      "blobs": [
+        "blob/82f927558a3dff0ea8c20858856e70779fd02c93.nq.gz",
+        "blob/fc2a564f83a59fdf93a6346ffb395d390081ce43.nq.gz",
+        "blob/d61b89c4d4b2ee90dbc9935c7f525cfbee165610.nq.gz",
+        "blob/ca0be71c0718e59857e844cfb36e603e7e84eb2b.nq.gz",
+        "blob/f36a0c393203a67981902070139f5764a367dbf0.nq.gz",
+        "blob/cbfd6a68c8b2673cc22d26fe29c9c5d576f2e1d1.nq.gz",
+        "blob/d9cf1150b84cca06b20e7dcae3a5941ad67e1d87.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
